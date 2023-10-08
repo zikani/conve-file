@@ -20,9 +20,9 @@ To use Conve File Converter, follow these simple steps:
    ```shell
    python conve_file_converter.py
 ##EXAMPLE
-
-python conve_file.py
-Enter the input format: JSON
-Enter the output format: CSV
-Enter the path to the input file: input.json
-Enter the path to the output file: output.csv
+   ```shell
+   python conve_file.py
+   Enter the input format: JSON
+   Enter the output format: CSV
+   Enter the path to the input file: input.json
+   Enter the path to the output file: output.csv
